@@ -86,6 +86,19 @@ The following table details the components used for this project and their respe
 
 ---
 
+## 5. Vehicle Dynamics
+
+- **Vehicle Weight:** 612 g
+- **Wheel Dimension:** Diameter = 80 mm, Width = 37 mm
+- **Limiting Angle of Friction (Mecanum Wheel & Plastic):** 27°
+- **Wheelbase:** 115 mm
+- **Chassis Dimensions:** Width = 215 mm, Length = 285 mm
+- **Corner Radius:** 40 mm
+- **Ground Clearance:** 50 mm
+- **Maximum Rotational Speed:** 3.18 rad/s
+- **Maximum Speed:** 0.681 m/s
+
+
 ### Motor Control & Kinematics
 
 - **Mecanum Wheel Principle:** The vehicle's omnidirectional capability comes from the four mecanum wheels.  
@@ -101,7 +114,7 @@ The following table details the components used for this project and their respe
 
 ---
 
-## 5. How to Use
+## 6. How to Use
 
 1. Assemble the vehicle according to the **mechanical and electronic configuration diagrams**.
 2. Upload the provided **Arduino code** to the Arduino Uno board.
